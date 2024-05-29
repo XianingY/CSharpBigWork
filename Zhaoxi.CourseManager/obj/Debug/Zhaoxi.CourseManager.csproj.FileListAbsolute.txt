@@ -1,0 +1,15 @@
+F:\CSharp\Zhaoxi.CourseManager\bin\Debug\Zhaoxi.CourseManager.exe.config
+F:\CSharp\Zhaoxi.CourseManager\bin\Debug\Zhaoxi.CourseManager.exe
+F:\CSharp\Zhaoxi.CourseManager\bin\Debug\Zhaoxi.CourseManager.pdb
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.csproj.AssemblyReference.cache
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\View\MainView.g.cs
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\App.g.cs
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager_MarkupCompile.cache
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager_MarkupCompile.lref
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\View\MainView.baml
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.g.resources
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.Properties.Resources.resources
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.csproj.GenerateResource.cache
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.csproj.CoreCompileInputs.cache
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.exe
+F:\CSharp\Zhaoxi.CourseManager\obj\Debug\Zhaoxi.CourseManager.pdb
