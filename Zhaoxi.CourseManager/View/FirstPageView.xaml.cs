@@ -23,5 +23,20 @@ namespace Zhaoxi.CourseManager.View
         {
             InitializeComponent();
         }
+
+        private void CartesianChart_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void CartesianChart_Loaded_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void CartesianChart_Loaded_2(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

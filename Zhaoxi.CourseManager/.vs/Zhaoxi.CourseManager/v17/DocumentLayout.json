@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:view\\firstpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|f:\\csharpprogram\\csharpbigwork\\zhaoxi.coursemanager\\view\\firstpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:view\\firstpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F302FC14-6095-439D-BA53-CAAAA07A893B}|Zhaoxi.CourseManager.csproj|solutionrelative:view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +41,20 @@
               "ToolTip": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\FirstPageView.xaml",
               "RelativeToolTip": "View\\FirstPageView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T03:08:15.308Z",
+              "WhenOpened": "2024-05-29T03:54:22.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View\\FirstPageView.xaml.cs",
+              "DocumentMoniker": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\FirstPageView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\FirstPageView.xaml.cs",
+              "ToolTip": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\FirstPageView.xaml.cs",
+              "RelativeToolTip": "View\\FirstPageView.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIAywCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:47:28.766Z",
               "EditorCaption": ""
             },
             {
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainView.xaml.cs",
               "DocumentMoniker": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\MainView.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainView.xaml.cs",
@@ -62,18 +79,20 @@
               "RelativeToolTip": "View\\MainView.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T02:09:12.965Z"
+              "WhenOpened": "2024-05-29T02:09:12.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainView.xaml",
               "DocumentMoniker": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\MainView.xaml",
               "RelativeDocumentMoniker": "View\\MainView.xaml",
               "ToolTip": "F:\\CSharpProgram\\CSharpBigWork\\Zhaoxi.CourseManager\\View\\MainView.xaml",
               "RelativeToolTip": "View\\MainView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T02:09:02.593Z"
+              "WhenOpened": "2024-05-29T02:09:02.593Z",
+              "EditorCaption": ""
             }
           ]
         }
